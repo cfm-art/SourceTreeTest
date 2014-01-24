@@ -1,7 +1,7 @@
-SourceTree�̃e�X�g
+SourceTreeのテスト
 ==
 
-SourceTree�̃e�X�g�p�̃��|�W�g���ł��B
+SourceTreeのテスト用のリポジトリです。
 
 --
-�e�X�g�e�X�g
+テストテスト
